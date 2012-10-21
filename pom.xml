@@ -9,6 +9,7 @@
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <protempa-version>2.0.1</protempa-version>
     </properties>
     
     <scm>
@@ -214,42 +215,42 @@
         <dependency>
             <groupId>org.protempa</groupId>
             <artifactId>protempa-framework</artifactId>
-            <version>${project.version}</version>
+            <version>${protempa-version}</version>
         </dependency>
         <dependency>
             <groupId>org.protempa</groupId>
             <artifactId>protempa-bconfigs-commons-ini</artifactId>
-            <version>${project.version}</version>
+            <version>${protempa-version}</version>
         </dependency>
         <dependency>
             <groupId>org.protempa</groupId>
             <artifactId>protempa-bcp-serviceloader</artifactId>
-            <version>${project.version}</version>
+            <version>${protempa-version}</version>
         </dependency>
         <dependency>
             <groupId>org.protempa</groupId>
             <artifactId>protempa-bp-serviceloader</artifactId>
-            <version>${project.version}</version>
+            <version>${protempa-version}</version>
         </dependency>
         <dependency>
             <groupId>org.protempa</groupId>
             <artifactId>protempa-ksb-protege</artifactId>
-            <version>${project.version}</version>
+            <version>${protempa-version}</version>
         </dependency>
         <dependency>
             <groupId>org.protempa</groupId>
             <artifactId>protempa-tsb-umls</artifactId>
-            <version>${project.version}</version>
+            <version>${protempa-version}</version>
         </dependency>
         <dependency>
             <groupId>org.protempa</groupId>
             <artifactId>protempa-test-suite</artifactId>
-            <version>${project.version}</version>
+            <version>${protempa-version}</version>
         </dependency>
         <dependency>
             <groupId>org.protempa</groupId>
             <artifactId>protempa-dsb-relationaldb</artifactId>
-            <version>${project.version}</version>
+            <version>${protempa-version}</version>
         </dependency>
     </dependencies>
     <build>
@@ -258,7 +259,7 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-assembly-plugin</artifactId>
                 <configuration>
-                    <finalName>protempa-${project.version}</finalName>
+                    <finalName>protempa-${protempa-version}</finalName>
                 </configuration>
                 <executions>
                     <execution>
