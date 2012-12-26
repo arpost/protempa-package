@@ -13,7 +13,7 @@
     </properties>
     
     <scm>
-        <connection>scm:svn:https://scm.cci.emory.edu/svn/aiw/trunk/protempa-package</connection>
+        <developerConnection>scm:svn:https://scm.cci.emory.edu/svn/aiw/trunk/protempa-package</developerConnection>
         <url>https://scm.cci.emory.edu/svn/aiw/trunk/protempa-package</url>
     </scm>
     
