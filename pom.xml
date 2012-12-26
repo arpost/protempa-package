@@ -5,6 +5,12 @@
     <version>2.0.3-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Protempa Package</name>
+    <description>This package creates a binary distribution of Protempa.
+    </description>
+    <organization>
+        <name>Emory University</name>
+        <url>http://www.emory.edu</url>
+    </organization>
     <url>http://aiw.sourceforge.net/dev/${project.build.finalName}</url>
     
     <properties>
