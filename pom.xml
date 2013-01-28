@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.protempa</groupId>
     <artifactId>protempa-package</artifactId>
-    <version>2.0.3</version>
+    <version>2.0.4-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Protempa Package</name>
     <description>This package creates a binary distribution of Protempa.
@@ -19,8 +19,8 @@
     </properties>
     
     <scm>
-        <developerConnection>scm:svn:https://scm.cci.emory.edu/svn/aiw/tags/protempa-package-2.0.3</developerConnection>
-        <url>https://scm.cci.emory.edu/svn/aiw/tags/protempa-package-2.0.3</url>
+        <developerConnection>scm:svn:https://scm.cci.emory.edu/svn/aiw/trunk/protempa-package</developerConnection>
+        <url>https://scm.cci.emory.edu/svn/aiw/trunk/protempa-package</url>
     </scm>
     
     <issueManagement>
