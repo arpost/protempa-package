@@ -15,7 +15,7 @@
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <protempa-version>2.0.3-SNAPSHOT</protempa-version>
+        <protempa-version>2.0.3</protempa-version>
     </properties>
     
     <scm>
