@@ -61,29 +61,29 @@
             <roles>
                 <role>Faculty Project Lead</role>
             </roles>
-            <organization>Center for Comprehensive Informatics, Emory
+            <organization>Department of Biomedical Informatics, Emory
                 University
             </organization>
         </developer>
         <developer>
             <id>hrathod</id>
             <name>Himanshu Rathod</name>
-            <email>Himanshu.Rathod@emory.edu</email>
+            <email>himanshu.rathod@emory.edu</email>
             <roles>
                 <role>Software Developer</role>
             </roles>
-            <organization>Center for Comprehensive Informatics, Emory
+            <organization>Department of Biomedical Informatics, Emory
                 University
             </organization>
         </developer>
         <developer>
             <id>mmansour</id>
             <name>Michel Mansour</name>
-            <email>mmansour@emory.edu</email>
+            <email>michel.mansour@emory.edu</email>
             <roles>
                 <role>Software Developer</role>
             </roles>
-            <organization>Center for Comprehensive Informatics, Emory
+            <organization>Department of Biomedical Informatics, Emory
                 University
             </organization>
         </developer>
@@ -94,7 +94,7 @@
             <roles>
                 <role>Data Warehouse Engineer</role>
             </roles>
-            <organization>Center for Comprehensive Informatics, Emory
+            <organization>Department of Biomedical Informatics, Emory
                 University
             </organization>
         </developer>
@@ -105,7 +105,7 @@
             <roles>
                 <role>Software Engineer</role>
             </roles>
-            <organization>Center for Comprehensive Informatics, Emory
+            <organization>Department of Biomedical Informatics, Emory
                 University
             </organization>
         </developer>
@@ -116,7 +116,7 @@
             <roles>
                 <role>Software Developer</role>
             </roles>
-            <organization>Center for Comprehensive Informatics, Emory
+            <organization>Department of Biomedical Informatics, Emory
                 University
             </organization>
         </developer>
@@ -127,7 +127,7 @@
             <roles>
                 <role>Software Developer</role>
             </roles>
-            <organization>Center for Comprehensive Informatics, Emory
+            <organization>Department of Biomedical Informatics, Emory
                 University
             </organization>
         </developer>
@@ -138,7 +138,7 @@
             <roles>
                 <role>User Interface Designer</role>
             </roles>
-            <organization>Center for Comprehensive Informatics, Emory
+            <organization>Department of Biomedical Informatics, Emory
                 University
             </organization>
         </developer>
@@ -149,7 +149,7 @@
             <roles>
                 <role>Software Developer</role>
             </roles>
-            <organization>Center for Comprehensive Informatics, Emory
+            <organization>Department of Biomedical Informatics, Emory
                 University
             </organization>
         </developer>
@@ -160,7 +160,7 @@
             <roles>
                 <role>Project Manager</role>
             </roles>
-            <organization>Center for Comprehensive Informatics, Emory
+            <organization>Department of Biomedical Informatics, Emory
                 University
             </organization>
         </developer>
@@ -169,7 +169,7 @@
     <repositories>
         <repository>
             <id>maven.cci</id>
-            <name>Maven CCI Repository</name>
+            <name>Maven BMI Repository</name>
             <url>http://maven.cci.emory.edu/nexus/content/repositories/public</url>
         </repository>
         <repository>
