@@ -19,8 +19,8 @@
     </properties>
     
     <scm>
-        <developerConnection>scm:svn:https://scm.cci.emory.edu/svn/aiw/trunk/protempa-package</developerConnection>
-        <url>https://scm.cci.emory.edu/svn/aiw/trunk/protempa-package</url>
+		<developerConnection>scm:git:ssh://git.cci.emory.edu/opt/git/aiw/protempa-package.git</developerConnection>
+		<tag>HEAD</tag>
     </scm>
     
     <issueManagement>
