@@ -18,28 +18,25 @@ This project includes:
   Apache Commons Collections under Apache License, Version 2.0
   Apache Commons DBCP under The Apache Software License, Version 2.0
   Apache Commons Lang under Apache License, Version 2.0
+  Apache Commons Logging under The Apache Software License, Version 2.0
   Apache Commons Pool under The Apache Software License, Version 2.0
   Apache POI under The Apache Software License, Version 2.0
   Apache ServiceMix :: Bundles :: xstream under The Apache Software License, Version 2.0
-  Commons BeanUtils Core under The Apache Software License, Version 2.0
   Commons Collections under The Apache Software License, Version 2.0
-  Commons Configuration under The Apache Software License, Version 2.0
   Commons IO under The Apache Software License, Version 2.0
   Commons Lang under The Apache Software License, Version 2.0
-  Commons Logging under The Apache Software License, Version 2.0
-  commons-beanutils under Apache License, Version 2.0
-  Digester under The Apache Software License, Version 2.0
   dom4j under BSD License
   Drools :: Rete-OO Core under The Apache Software License, Version 2.0
   H2 Database Engine under MPL 2.0, and EPL 1.0
+  ini4j under Apache 2
   JavaUtil under Apache License, Version 2.0
   je under Sleepycat License
   kXML 2 is a small XML pull parser based on the common XML pull API under BSD style or Public Domain
   mvel under The Apache Software License, Version 2.0
   opencsv under Apache 2
   protege under Mozilla Public License
-  Protempa Commons INI Backend Configurations under Apache License, Version 2.0
   Protempa Framework under Apache License, Version 2.0
+  Protempa Ini4j INI Backend Configurations under Apache License, Version 2.0
   Protempa Package under Apache License, Version 2.0
   Protempa Protege Knowledge Source Backend under Apache License, Version 2.0
   Protempa Relational Database Data Source Backend under Apache License, Version 2.0
@@ -48,18 +45,6 @@ This project includes:
   Protempa Test Suite under Apache License, Version 2.0
   Protempa UMLS Term Source Backend under Apache License, Version 2.0
   StAX API under The Apache Software License, Version 2.0
-  tomcat-annotations-api under Apache License, Version 2.0
-  tomcat-api under Apache License, Version 2.0
-  tomcat-catalina under Apache License, Version 2.0
-  tomcat-coyote under Apache License, Version 2.0
-  tomcat-el-api under Apache License, Version 2.0
-  tomcat-jni under Apache License, Version 2.0
-  tomcat-jsp-api under Apache License, Version 2.0
-  tomcat-juli under Apache License, Version 2.0
-  tomcat-servlet-api under Apache License, Version 2.0 and
-        Common Development And Distribution License (CDDL) Version 1.0
-  tomcat-util under Apache License, Version 2.0
-  tomcat-util-scan under Apache License, Version 2.0
   UMLSQuery under Apache License, Version 2.0
   XML Commons External Components XML APIs under The Apache Software License, Version 2.0
   XmlBeans under The Apache Software License, Version 2.0

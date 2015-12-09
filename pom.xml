@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.eurekaclinical</groupId>
     <artifactId>protempa-package</artifactId>
-    <version>3.0-Alpha-4-SNAPSHOT</version>
+    <version>3.0-Alpha-5-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Protempa Package</name>
     <description>This package creates a binary distribution of Protempa.
@@ -15,7 +15,7 @@
     <url>https://github.com/eurekaclinical/protempa-package.git</url>
     
     <properties>
-        <protempa-version>2.4-SNAPSHOT</protempa-version>
+        <protempa-version>3.0-Alpha-5-SNAPSHOT</protempa-version>
     </properties>
     
     <scm>
@@ -40,42 +40,42 @@
   
     <dependencies>
         <dependency>
-            <groupId>org.protempa</groupId>
+            <groupId>org.eurekaclinical</groupId>
             <artifactId>protempa-framework</artifactId>
             <version>${protempa-version}</version>
         </dependency>
         <dependency>
-            <groupId>org.protempa</groupId>
-            <artifactId>protempa-bconfigs-commons-ini</artifactId>
+            <groupId>org.eurekaclinical</groupId>
+            <artifactId>protempa-bconfigs-ini4j-ini</artifactId>
             <version>${protempa-version}</version>
         </dependency>
         <dependency>
-            <groupId>org.protempa</groupId>
+            <groupId>org.eurekaclinical</groupId>
             <artifactId>protempa-bcp-serviceloader</artifactId>
             <version>${protempa-version}</version>
         </dependency>
         <dependency>
-            <groupId>org.protempa</groupId>
+            <groupId>org.eurekaclinical</groupId>
             <artifactId>protempa-bp-serviceloader</artifactId>
             <version>${protempa-version}</version>
         </dependency>
         <dependency>
-            <groupId>org.protempa</groupId>
+            <groupId>org.eurekaclinical</groupId>
             <artifactId>protempa-ksb-protege</artifactId>
             <version>${protempa-version}</version>
         </dependency>
         <dependency>
-            <groupId>org.protempa</groupId>
+            <groupId>org.eurekaclinical</groupId>
             <artifactId>protempa-tsb-umls</artifactId>
             <version>${protempa-version}</version>
         </dependency>
         <dependency>
-            <groupId>org.protempa</groupId>
+            <groupId>org.eurekaclinical</groupId>
             <artifactId>protempa-test-suite</artifactId>
             <version>${protempa-version}</version>
         </dependency>
         <dependency>
-            <groupId>org.protempa</groupId>
+            <groupId>org.eurekaclinical</groupId>
             <artifactId>protempa-dsb-relationaldb</artifactId>
             <version>${protempa-version}</version>
         </dependency>
