@@ -15,7 +15,7 @@
     <url>https://github.com/eurekaclinical/protempa-package.git</url>
     
     <properties>
-        <protempa-version>3.0-Alpha-5-SNAPSHOT</protempa-version>
+        <protempa-version>3.0-Alpha-5</protempa-version>
     </properties>
     
     <scm>
